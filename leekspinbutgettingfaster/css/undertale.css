@@ -12,8 +12,8 @@ html, body {
 #rumbling_leekspin {
 	display: inline-block;
 	position: relative;
-	width: 500px;
-	height: 500px;
+	width: 260px;
+	height: 140px;
 	overflow: hidden;
 }
 
